@@ -53,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
     LocationManager locationManager;
     LocationListener locationListener;
     boolean flag;
+    String saby;
 
 
     //prepare an inner class for recycler view adapter
